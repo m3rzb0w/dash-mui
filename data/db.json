@@ -1,0 +1,68 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": "1"
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": "2"
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": "3"
+    },
+    {
+      "id": "5270",
+      "title": "test",
+      "details": "this is a test",
+      "category": "todos"
+    },
+    {
+      "id": "2b90",
+      "title": "tototo",
+      "details": "yoyoyoo",
+      "category": "todos"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "1",
+      "title": "NIKE112"
+    },
+    {
+      "id": "2",
+      "title": "REEBOK24"
+    },
+    {
+      "id": "3",
+      "title": "ACOVA4"
+    },
+    {
+      "id": "6cad",
+      "title": "TOTO2"
+    },
+    {
+      "id": "7f1c",
+      "title": "TOTO3"
+    },
+    {
+      "id": "9582",
+      "title": "NUME122"
+    },
+    {
+      "id": "a52f",
+      "title": "NIKE1123"
+    },
+    {
+      "id": "09d7",
+      "title": "REEBOK244"
+    }
+  ]
+}
